@@ -7,4 +7,4 @@ Harry Potter network map analysis, from First 3 movies script- Characters
 
 - ***Data collection:*** [kaggle](https://www.kaggle.com/code/michau96/harry-potter-and-the-text-mining) (Movie scripts- from subtitles)
 - ***other data*** : collected from [pottermore](pottermore.com) and [harrypotter.fandom](https://harrypotter.fandom.com/wiki/Main_Page)
-<img src="https://user-images.githubusercontent.com/51888893/213921954-02a2e4b5-2aa5-4756-8b1a-f8b2ce9c3c2b.png" width=400px>
+<img src="https://github.com/ortizfram/project-harry-potter-network-map/blob/main/harry%20potte%20gif.gif" width=400px>
